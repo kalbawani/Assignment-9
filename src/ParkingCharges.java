@@ -1,3 +1,7 @@
+/**
+ * This code solves Exercise 5.3 of Assignment 5, but it contains 3 bugs.
+ * Review the code and report the bugs by writing a comment below the right code line.
+ */
 import java.util.Scanner;
 
 public class ParkingCharges {
